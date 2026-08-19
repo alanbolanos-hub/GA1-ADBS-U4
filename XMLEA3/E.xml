@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?> <!-- Declaración XML: versión y codificación -->
+<!-- ALAN BOLAÑOS ó ADBS-->
+<catalogo> <!-- Elemento raiz unico del documento -->
+    <libro id="bk101"> <!-- Elemento hijo con atributo 'id' -->
+        <titulo>Programacion en Java</titulo> <!-- Texto del titulo -->
+        <autor>Juan Perez</autor> <!-- Autor del libro -->
+        <precio moneda="USD">25.50</precio> <!-- Elemento con atributo y contenido numerico -->
+        <publicacion>2023-09-01</publicacion> <!-- Fecha en formato ISO 8601 -->
+    </libro>
+</catalogo>

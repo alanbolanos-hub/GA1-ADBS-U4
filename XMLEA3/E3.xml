@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?> <!-- Declaración XML: versión y codificación -->
+<!-- ALAN BOLAÑOS ó ADBS-->
+ <empleados> <!-- Elemento raiz unico del documento -->
+    <empleado><!-- Elemento hijo -->
+        <nombre>Dulce</nombre> <!-- Elemento y contenido -->
+        <apellido>Bustamante</apellido> <!-- Elemento y contenido -->
+        <edad>17</edad> <!-- Elemento y contenido -->
+        <departamento>5 12</departamento> <!-- Elemento y contenido -->
+        <cargo>Dibujante</cargo> <!-- Elemento y contenido -->
+    </empleado>
+    
+    <empleado><!-- Elemento hijo -->
+        <nombre>Diego</nombre> <!-- Elemento y contenido -->
+        <apellido>Aguilar</apellido> <!-- Elemento y contenido -->
+        <edad>17</edad> <!-- Elemento y contenido -->
+        <departamento>IT</departamento> <!-- Elemento y contenido -->
+        <cargo>Cirujano Plastico</cargo> <!-- Elemento y contenido -->
+    </empleado>
+    
+    <empleado><!-- Elemento hijo -->
+        <nombre>Hector</nombre> <!-- Elemento y contenido -->
+        <apellido>De La Cruz</apellido> <!-- Elemento y contenido -->
+        <edad>18</edad> <!-- Elemento y contenido -->
+        <departamento>De Programacion</departamento> <!-- Elemento y contenido -->
+        <cargo>Capitan de futbool</cargo> <!-- Elemento y contenido -->
+    </empleado>
+ </empleados>

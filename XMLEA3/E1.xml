@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> <!-- Declaración XML: versión y codificación -->
+<!-- ALAN BOLAÑOS ó ADBS-->
+<libros> <!-- Elemento raiz unico del documento -->
+    <libro titulo="La Fortuna de YOO" autor ="Iam Bang" año= "1297-1450"/> <!-- Texto del titulo, autor y año de lanzamiento -->
+    <libro titulo="Diario de Ana Frank" autor ="Ana Frank" año= "1942-1944"/> <!-- Texto del titulo, autor y año de lanzamiento -->
+    <libro titulo="Estudio en Escarlata" autor ="Arthur Conan Doyle" año= "1887"/> <!-- Texto del titulo, autor y año de lanzamiento -->
+    <libro titulo="Sub Terra" autor ="Baldomero Lillo" año= "1904"/> <!-- Texto del titulo, autor y año de lanzamiento -->
+    <libro titulo="Blanca Nieves" autor ="Los Hermanos Grimm" año= "1812-1857"/> <!-- Texto del titulo, autor y año de lanzamiento -->
+    <libro titulo="La Comedia de los Errores" autor ="William Shakespeare" año= "1591-1592"/> <!-- Texto del titulo, autor y año de lanzamiento -->
+    <libro titulo="De Varios Colores" autor ="Juan Valera" año= "1898"/> <!-- Texto del titulo, autor y año de lanzamiento -->
+    <libro titulo="Las Famosas Asturias" autor ="Lope de Vega" año= "1612"/> <!-- Texto del titulo, autor y año de lanzamiento -->
+    <libro titulo="No son todos Ruiseñores" autor ="Lope de Vega" año= "1635"/> <!-- Texto del titulo, autor y año de lanzamiento -->
+    <libro titulo="El Gobernador Embulado" autor ="Im Bang" año= "1740"/> <!-- Texto del titulo, autor y año de lanzamiento -->
+</libros>

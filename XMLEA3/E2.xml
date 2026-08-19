@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?> <!-- Declaración XML: versión y codificación -->
+<!-- ALAN BOLAÑOS ó ADBS-->
+<catalogo> <!-- Elemento raiz unico del documento -->
+    <producto> <!-- Elemento hijo -->
+        <nombre>Celular Samsung Galaxy A06</nombre> <!-- Elemento y contenido -->
+        <descripcion> Un celular avanzado con excelentes caracteristicas </descripcion>
+        <precio>Q769</precio> <!-- Elemento y contenido -->
+        <caracteristicas>
+            <caracteristica nombre="Pantalla"> 6.7 pulgadas </caracteristica> <!-- Elemento con atributo y contenido -->
+            <caracteristica nombre="Procesador"> MediaTek Helio G99 (MT6789) </caracteristica> <!-- Elemento con atributo y contenido -->
+            <caracteristica nombre="Memoria RAM"> 4 Gigabytes </caracteristica> <!-- Elemento con atributo y contenido -->
+        </caracteristicas>
+    </producto>
+    <producto><!-- Elemento hijo -->
+        <nombre>Celular Samsung Galaxy A07 </nombre> <!-- Elemento y contenido -->
+        <descripcion> Un celular avanzado con excelentes caracteristicas </descripcion> <!-- Elemento y contenido -->
+        <precio>Q965</precio><!-- Elemento y contenido -->
+        <caracteristicas>
+            <caracteristica nombre="Pantalla"> 6.7 pulgadas </caracteristica> <!-- Elemento con atributo y contenido -->
+            <caracteristica nombre="Procesador"> MediaTek Helio G99 (MT6789) </caracteristica> <!-- Elemento con atributo y contenido -->
+            <caracteristica nombre="Memoria RAM"> 4 Gigabytes </caracteristica> <!-- Elemento con atributo y contenido -->
+        </caracteristicas>
+    </producto>
+    <producto><!-- Elemento hijo -->
+        <nombre>Celular Xiaomi Redmi A5</nombre> <!-- Elemento y contenido -->
+        <descripcion>Un celular avanzado con excelentes caracteristicas </descripcion> <!-- Elemento y contenido -->
+        <precio>Q941</precio> <!-- Elemento y contenido -->
+        <caracteristicas>
+            <caracteristica nombre="Pantalla"> 6.88 pulgadas </caracteristica> <!-- Elemento con atributo y contenido -->
+            <caracteristica nombre="Procesador"> Unisoc Tiger T615 </caracteristica> <!-- Elemento con atributo y contenido -->
+            <caracteristica nombre="Memoria RAM"> 4 Gigabytes </caracteristica> <!-- Elemento con atributo y contenido -->
+        </caracteristicas>
+    </producto>
+    <producto><!-- Elemento hijo -->
+        <nombre>Xiaomi Modelo Redmi 15 C </nombre> <!-- Elemento y contenido -->
+        <descripcion> Un celular avanzado con excelentes caracteristicas </descripcion> <!-- Elemento y contenido -->
+        <precio>Q1,323</precio> <!-- Elemento y contenido -->
+        <caracteristicas>
+            <caracteristica nombre="Pantalla"> 6.9 pulgadas </caracteristica> <!-- Elemento con atributo y contenido -->
+            <caracteristica nombre="Procesador"> Unisoc Tiger T615 </caracteristica> <!-- Elemento con atributo y contenido -->
+            <caracteristica nombre="Memoria RAM"> 4 Gigabytes </caracteristica> <!-- Elemento con atributo y contenido -->
+        </caracteristicas>
+    </producto>
+    <producto><!-- Elemento hijo -->
+        <nombre>DEMO Xiaomi Modelo Redmi 15 C </nombre> <!-- Elemento y contenido -->
+        <descripcion> Un celular avanzado con excelentes caracteristicas </descripcion> <!-- Elemento y contenido -->
+        <precio>Q1,403</precio> <!-- Elemento y contenido -->
+        <caracteristicas>
+            <caracteristica nombre="Pantalla"> 6.9 pulgadas </caracteristica> <!-- Elemento con atributo y contenido -->
+            <caracteristica nombre="Procesador"> MediaTek Helio G81-Ultra (MT6769J) </caracteristica> <!-- Elemento con atributo y contenido -->
+            <caracteristica nombre="Memoria RAM"> 8 Gigabytes </caracteristica> <!-- Elemento con atributo y contenido -->
+        </caracteristicas>
+    </producto>
+    <producto> <!-- Elemento hijo -->
+        <nombre>Samsung Galaxy A17</nombre> <!-- Elemento y contenido -->
+        <descripcion> Un celular avanzado con excelentes caracteristicas </descripcion> <!-- Elemento y contenido -->
+        <precio>Q1,602</precio> <!-- Elemento y contenido -->
+        <caracteristicas>
+            <caracteristica nombre="Pantalla"> 6.68 pulgadas </caracteristica> <!-- Elemento con atributo y contenido -->
+            <caracteristica nombre="Procesador"> MediaTek Helio G99 (6789) </caracteristica> <!-- Elemento con atributo y contenido -->
+            <caracteristica nombre="Memoria RAM"> 4 Gigabytes </caracteristica> <!-- Elemento con atributo y contenido -->
+        </caracteristicas>
+    </producto>
+    <producto> <!-- Elemento hijo -->
+        <nombre>Samsung Galaxy A16</nombre> <!-- Elemento y contenido -->
+        <descripcion> Un celular avanzado con excelentes caracteristicas </descripcion> <!-- Elemento y contenido -->
+        <precio>Q1,929</precio> <!-- Elemento y contenido -->
+        <caracteristicas>
+            <caracteristica nombre="Pantalla"> 6.7 pulgadas </caracteristica> <!-- Elemento con atributo y contenido -->
+            <caracteristica nombre="Procesador"> Samsung Exynos 1330 </caracteristica> <!-- Elemento con atributo y contenido -->
+            <caracteristica nombre="Memoria RAM"> 6 Gigabytes </caracteristica> <!-- Elemento con atributo y contenido -->
+        </caracteristicas>
+    </producto>
+    <producto> <!-- Elemento hijo -->
+        <nombre>Xiaomi Redmi Note 15</nombre> <!-- Elemento y contenido -->
+        <descripcion> Un celular avanzado con excelentes caracteristicas </descripcion> <!-- Elemento y contenido -->
+        <precio>Q2,077</precio> <!-- Elemento y contenido -->
+        <caracteristicas>
+            <caracteristica nombre="Pantalla"> 6.7 pulgadas </caracteristica> <!-- Elemento con atributo y contenido -->
+            <caracteristica nombre="Procesador"> MediaTek Helio G100 (MT6789H) </caracteristica> <!-- Elemento con atributo y contenido -->
+            <caracteristica nombre="Memoria RAM"> 8 Gigabytes </caracteristica> <!-- Elemento con atributo y contenido -->
+        </caracteristicas>
+    </producto>
+    <producto> <!-- Elemento hijo -->
+        <nombre>Samsung Galaxy A17</nombre> <!-- Elemento y contenido -->
+        <descripcion> Un celular avanzado con excelentes caracteristicas </descripcion> <!-- Elemento y contenido -->
+        <precio>Q1974</precio> <!-- Elemento y contenido -->
+        <caracteristicas>
+            <caracteristica nombre="Pantalla"> 6.68 pulgadas </caracteristica> <!-- Elemento con atributo y contenido -->
+            <caracteristica nombre="Procesador"> MediaTek Helio G99 (6789) </caracteristica> <!-- Elemento con atributo y contenido -->
+            <caracteristica nombre="Memoria RAM"> 8 Gigabytes </caracteristica> <!-- Elemento con atributo y contenido -->
+        </caracteristicas>
+    </producto>
+    <producto> <!-- Elemento hijo -->
+        <nombre>Samsung Galaxy A16</nombre> <!-- Elemento y contenido -->
+        <descripcion> Un celular avanzado con excelentes caracteristicas </descripcion> <!-- Elemento y contenido -->
+        <precio>Q965</precio> <!-- Elemento y contenido -->
+        <caracteristicas>
+            <caracteristica nombre="Pantalla"> 6.7 pulgadas </caracteristica> <!-- Elemento con atributo y contenido -->
+            <caracteristica nombre="Procesador"> Samsung Exynos 1330</caracteristica> <!-- Elemento con atributo y contenido -->
+            <caracteristica nombre="Memoria RAM"> 8 Gigabytes </caracteristica> <!-- Elemento con atributo y contenido -->
+        </caracteristicas>
+    </producto>
+</catalogo>

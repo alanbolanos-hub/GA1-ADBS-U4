@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Declaración XML: versión y codificación  -->
+<!--  ALAN BOLAÑOS ó ADBS -->
+
+<!--  Elemento raiz unico del documento  -->
+<Pasteles>
+    <!--  Elemento hijo-->
+    <recetas>
+        <!--  Texto dela Receta y sus atributos   -->
+        <receta1 nombre="Cheesecake de fresa casero"
+            ingredientes="
+            (220 g.) 1 taza de galletas María
+            (80 g.) 4 cucharadas de mantequilla
+            (454 g.) 2 barras de queso crema
+            (395 g.) 1 lata de Leche Condensada LA LECHERA®
+            (100 g.) 2 huevos
+            (227 g.) 1 ½ taza de fresas
+            (100 g.) 1/2 taza de azúcar
+            (30 ml.) 2 cucharadas de ron"
+            instrucciones="
+            1.Precalentar el horno a 200° C.
+            2.En un tazón, mezclar las galletas María molidas con la mantequilla. Verter la mezcla un molde desmontable y presionar para que se adhiera al fondo. Refrigerar.
+            3.En otro tazón, batir el queso crema y la Leche Condensada LA LECHERA® hasta que esté sin grumos. Agregar los huevos y batir hasta tener una mezcla uniforme.
+            4.Verter la mezcla del queso en el molde con la corteza de galleta y hornear en baño María a 175° C por 45 minutos.
+            5.Retirar el molde del horno y dejar enfriar a temperatura ambiente.
+            6.En una cacerola a fuego bajo, colocar las fresas, el azúcar, el ron y cocinar hasta que se forme un sirope.
+            7.Desmontar el dulce del molde, cubrir con el sirope de fresas. Servir y disfrutar."
+            tiempo="1 hora"> nivel de dificultad: Medio </receta1>
+        <!--  Texto dela Receta y sus atributos   -->
+        <receta2 nombre="Pie de limón sin horno con galletas María"
+            ingredientes="
+            30 galletas tipo María
+            (46 g.) ½ taza de almendras
+            (40 g.) 3 cucharadas de mantequilla derretida
+            (7.5 g.) 1 sobre de gelatina sin sabor
+            (122 ml.) ½ taza de agua tibia
+            (397 g.) 1 lata de Leche Condensada LA LECHERA®
+            (90 ml.) 6 cucharadas de jugo de limón
+            (113 g.) ½ barra o ½ taza de queso crema a temperatura ambiente
+            Merengue suizo, ralladura de limón o galletas maría trituradas para decorar."
+        instrucciones="
+            1.En un procesador de alimentos, triturar las galletas María con las almendras. Colocar la mezcla triturada en un tazón, verter la mantequilla derretida y combinar. 
+            Pasar la mezcla a un monde desmontable redondo y presionar al fondo con ayuda de un vaso o taza de base plana. Refrigerar la corteza mientras continua con la receta.
+            2.Disolver la gelatina en el agua tibia y reservar.
+            3.Licuar la Leche Condensada LA LECHERA®, el jugo de limón, el queso crema y la gelatina disuelta. Verter esta mezcla sobre la corteza, distribuirla bien y golpear 
+            levemente el molde relleno contra la superficie, para eliminar las burbujas. Refrigerar por al menos 6 horas.
+            4.Decorar al gusto y disfrutar."
+            tiempo="7 horas"> nivel de dificultad: medio </receta2>
+        <!--  Texto dela Receta y sus atributos   -->
+        <receta3 nombre="Pastel de zanahoria"
+            ingredientes="
+                1 Pastel de caja de vainilla
+                1 taza agua (ingrediente de caja)
+                1/2 taza aceite (ingrediente de caja)
+                3 huevos (ingrediente de caja)
+                1 cda polvos de hornear
+                3 zanahorias grandes ralladas"
+            instrucciones="
+                1 En un bowl colocamos la harina de caja y agregamos los ingredientes según te pida en las indicaciones de la caja
+                2 Una vez terminemos con esto agregamos el polvo de hornear y las 3 zanahorias ralladas poco a poco y mezclamos (la masa debe crecer un poco)
+                3 Precalentamos el horno a 180°C
+                4 Pasamos mantequilla y enharinamos el molde que vayamos a utilizar y vertemos la mezcla
+                5 Y al horno a 180 grados por 35 min o hasta que hagas la prueba del palillo y este salga limpio
+                6 Apagas, sacas, dejas enfriar y sírvete con helado o con lo que gustes"
+            tiempo="1 horas"> nivel de dificultad: facil </receta3>
+        <!--  Texto dela Receta y sus atributos   -->
+        <receta4 nombre="Pastel de fresa"
+            ingredientes="1 pz pan de vainilla
+            300 ml jarabe de 3 leches
+            ------ relleno
+            150 gm top cream fresas con crema
+            150 gm fresas en cubos
+            ----- cubierta
+            200 gm top cream de fresa
+            10 gm ganache blanco
+            ------- decorado
+            40 gm fresas
+            12 gm cerezas
+            decoraciones con chocolate"
+            instrucciones="
+            1 Rebanar el pan por mitad.
+            2 Humectar la primer capa de pan con jarabe de 3 leches.
+            3 Rellenar con top cream de fresa y colocar los cubos de fresa natural.
+            4 Colocar la siguiente capa de pan y humectar nuevamente con el jarabe.
+            5 Cubrir de manera uniforme con top cream de fresa.
+            6 Decorar con fresa y cerezas colocar decoraciones con chocolate."
+            tiempo="1.30 horas"> nivel de dificultad: facil </receta4>
+            <!--  Texto dela Receta y sus atributos   -->
+        <receta5 nombre="Pastel de gelatina con fruta y yogur"
+            ingredientes="
+            Para la capa de gelatina y fruta
+                1 sobre gelatina de sabor arándanos
+                1 puñado arándanos
+                400 ml agua
+            Para la capa de yogur y fruta
+                750 gr yogur natural azucarado
+                50 gr arándanos
+                10,5 hojas gelatina
+                Colorante morado en pasta
+                Podemos usar yogur de arándanos en lugar de yogur natural + arándanos frescos
+            Para la capa de yogur
+                750 gr yogur natural azucarado
+                10,5 hojas gelatina"
+            instrucciones="
+            1 Para hacerla, lo primero que haremos será colocar la gelatina en polvo en un cuenco y agregar la mitad del agua bien caliente. 
+            Podrás calentarla en el microondas o en un cazo, pero tiene que estar caliente para disolver la gelatina y que no nos queden grumos. 
+            Mezclamos bien y, cuando esté completamente disuelta, agregamos el resto del agua.
+                Con la ayuda de un pincel untamos muy bien el molde que vayamos a utilizar con aceite o spray antidesmoldante.
+            2 Vertemos una parte de la gelatina en el fondo del molde y repartimos un puñado de arándanos en la base. Llevamos el molde unos 
+            10 minutos al congelador o hasta que cuaje. Pasado este tiempo vertemos con cuidado el resto de la gelatina en el molde y volvemos a 
+            llevar al congelador otros 15 minutos o hasta que haya cuajado. Solo si lo hacemos de esta manera conseguiremos que los arándanos queden en el fondo y no floten en la gelatina.
+            3 Para hacer la segunda capa podemos usar yogur sabor arándanos o bien yogur natural más arándanos frescos. Si usamos la segunda 
+            opción, trituramos los arándanos con un procesador de alimentos o los machacamos con un tenedor, no importa quede un puré perfecto. Mezclamos los arándanos con el yogur.
+                Hidratamos las hojas de gelatina en agua fría durante 10 minutos. Las escurrimos y las llevamos al microondas durante 10 segundos. 
+                Añadimos la gelatina al yogur y mezclamos bien.
+            4 En caso de que haya quedado un color muy clarito podremos darle intensidad con una gota de colorante morado. Mezclamos muy bien.
+                Cuando la primera capa de gelatina esté firme, vertemos con mucho cuidado la segunda. La repartimos bien y volvemos a llevar al 
+                congelador unos 15 minutos o hasta que haya cuajado.
+            5 Para hacer la última capa de yogur, hidratamos las hojas de gelatina en agua fría durante 10 minutos. Pasado este tiempo las escurrimos 
+            y las llevamos al microondas durante 10 segundos o hasta que se hayan derretido. La mezclamos muy bien con el yogur y con mucho cuidado lo vertemos en el molde.
+                Dejaremos reposar en la nevera unas 6 horas para que cuaje perfectamente.
+            6 Pasado este tiempo ya podremos desmoldar el pastel de gelatina y yogur. Para hacerlo nos humedecemos las manos y vamos despegando 
+            con mucho cuidado la gelatina de los bordes. Seguiremos despegándola hasta que veamos el fondo. En mi caso el molde tiene muchos recovecos, por lo que de esta manera no he conseguido despegar completamente el pastel. Para acabar de despegarlo, rellenamos un cuenco con agua caliente y sumergimos la base del molde unos segundos. Es importante que no entre agua dentro.
+            7 Colocamos un plato sobre el molde y con cuidado le damos la vuelta. Verás como el pastel sale entero y con una forma preciosa.
+                Recuerda conservar esta tarta fría de gelatina y yogur en la nevera hasta el momento de servirla. Bien fresquita es toda una delicia."
+            tiempo="2 horas A 4 horas"> nivel de dificultad: facil </receta5>
+    </recetas>
+</Pasteles>

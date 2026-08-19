@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Declaración XML: versión y codificación  -->
+<!--  ALAN BOLAÑOS ó ADBS -->
+  <!--  Elemento raiz unico del documento  -->
+<Sopas>
+    <!--  Elemento hijo-->
+      <!--  Texto dela Receta y sus atributos   -->
+    <Receta 
+    Nombre="Sopa de Pollo y Fideos Tradicional"
+    Ingredientes="2 cuartos traseros de pollo, 2 zanahorias, 1 rama de apio, 1 patata, 1 puerro, 100g de fideos finos, agua, sal."
+    Instrucciones="1. Hervir el pollo y las verduras troceadas en abundante agua con sal por 45 minutos, retirando la espuma. 
+        2. Sacar el pollo, desmenuzarlo sin huesos y regresarlo a la olla. 3. Añadir los fideos y cocinar 5 minutos más."
+    TiempoDePreparación="50 minutos"
+    Sabor="Casero, reconfortante y salado balanceado">
+    </Receta>
+    <!--  Texto dela Receta y sus atributos   -->
+    <Receta 
+    Nombre="Minestrone Rápida de Verduras"
+    Ingredientes="1 calabacín, 2 zanahorias, 1 cebolla, 100g de alubias blancas cocidas, 1 taza de salsa de tomate, 1 litro de caldo de verduras, aceite de oliva, sal, pimienta."
+    Instrucciones="1. Sofreír la cebolla, zanahoria y calabacín picados por 5 minutos. 2. Verter el tomate y el caldo, y hervir por 15 minutos. 3. Agregar las alubias, 
+    salpimentar y cocinar 5 minutos más."
+    TiempoDePreparación="25 minutos"
+    Sabor="Fresco, herbal y ligeramente ácido por el tomate">
+    </Receta>
+    <!--  Texto dela Receta y sus atributos   -->
+    <Receta 
+    Nombre="Crema de Calabaza y Zanahoria"
+    Ingredientes="400g de calabaza, 2 zanahorias, 1 patata, 1/2 cebolla, 2 cucharadas de crema de leche, aceite de oliva, agua, sal."
+    Instrucciones="1. Rehogar la cebolla picada. 2. Añadir la calabaza, patata y zanahorias en cubos, cubrir con agua y cocinar 20 minutos. 
+    3. Triturar todo con batidora e integrar la crema de leche."
+    TiempoDePreparación="30 minutos"
+    Sabor="Dulce natural, suave y cremoso">
+    </Receta>
+    <!--  Texto dela Receta y sus atributos   -->
+    <Receta 
+    Nombre="Sopa de Ajo y Pan (Sopa Castellana)"
+    Ingredientes="4 dientes de ajo, 100g de pan del día anterior en rodajas, 1 cucharadita de pimentón dulce, 1 litro de caldo de carne, 2 huevos, aceite de oliva, sal."
+    Instrucciones="1. Dorar los ajos laminados en aceite, añadir el pan y dorarlo también. 2. Retirar del fuego, añadir el pimentón, 
+    mezclar y verter el caldo caliente para hervir 10 minutos. 3. Romper los huevos dentro de la sopa caliente, remover para que cuajen en hilos y servir."
+    TiempoDePreparación="20 minutos"
+    Sabor="Intenso a ajo, ahumado y rústico">
+    </Receta>
+    <!--  Texto dela Receta y sus atributos   -->
+    <Receta 
+    Nombre="Crema de Champiñones e Inojo"
+    Ingredientes="300g de champiñones, 1/2 bulbo de hinojo, 1 puerro, 1 patata pequeña, 750ml de caldo de pollo, 50ml de leche evaporada, aceite, sal."
+    Instrucciones="1. Trocear el puerro, el hinojo y los champiñones, y rehogarlos con aceite por 8 minutos. 2. Añadir la patata en dados y el caldo; 
+    cocinar a fuego medio por 15 minutos. 3. Licuar hasta obtener una textura fina, agregar la leche evaporada y ajustar de sal."
+    TiempoDePreparación="25 minutos"
+    Sabor="Terroso, con un sutil toque anisado y textura tersa">
+    </Receta>
+</Sopas>

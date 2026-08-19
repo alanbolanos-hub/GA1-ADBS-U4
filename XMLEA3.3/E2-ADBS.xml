@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Declaración XML: versión y codificación  -->
+<!--  ALAN BOLAÑOS ó ADBS -->
+<!--  Elemento raiz unico del documento  -->
+<Receta-de-Ensaladas>
+    <!--  Elemento hijo-->
+    <Ensaladas>
+        <!--  Texto dela Receta y sus atributos   -->
+        <receta 
+        nombre="Ensalada César con Pollo" 
+        ingredientes="Lechuga romana, pechuga de pollo a la plancha, crutones, queso parmesano y aderezo César." 
+        instrucciones="Corta la lechuga y el pollo. Mezcla todo en un tazón grande. Añade el queso, los crutones y el aderezo al final."
+        calorias="350 kcal por porción."
+        Tipo=" Ensalada de plato fuerte (proteína)"> 
+        </receta>
+        <!--  Texto dela Receta y sus atributos   -->
+        <receta 
+        nombre="Ensalada Griega Tradicional" 
+        ingredientes="Tomate, pepino, cebolla morada, aceitunas negras, queso feta y aceite de oliva." 
+        instrucciones=" Pica los vegetales en trozos grandes. Colócalos en un plato. Agrega las aceitunas y el queso feta en cubos. Adereza con aceite de oliva y sal"
+        calorias="220 kcal por porción."
+        Tipo=" Ensalada fresca de acompañamiento"> 
+        </receta>
+        <!--  Texto dela Receta y sus atributos   -->
+        <receta 
+        nombre="Ensalada de Espinacas con Fresa y Nuez"
+        ingredientes="Espinacas frescas, fresas en rodajas, nueces picadas y queso de cabra."
+        instrucciones="Lava las hojas de espinaca. Corta las fresas. Mezcla las espinacas con las fresas y las nueces. Desmorona el queso de cabra encima."
+        calorias="180 kcal por porción."
+        Tipo=" Ensalada agridulce">
+        </receta>
+        <!--  Texto dela Receta y sus atributos   -->
+        <receta 
+        nombre="Ensalada de Atún y Maíz"
+        ingredientes="Atún en agua, maíz dulce, zanahoria rallada y un toque de mayonesa ligera."
+        instrucciones=" Escurre el atún. Colócalo en un recipiente. Agrega el maíz y la zanahoria rallada. Mezcla con la mayonesa hasta integrar."
+        calorias="250 kcal por porción."
+        Tipo="Ensalada fría mixta.">
+        </receta>
+        <!--  Texto dela Receta y sus atributos   -->
+        <receta 
+        nombre="Ensalada de Caprese con Pesto"
+        ingredientes="Tomates maduros, queso mozzarella fresco, hojas de albahaca, salsa pesto y reducción de vinagre balsámico."
+        instrucciones="Corta los tomates y el queso mozzarella en rodajas. 
+            Intercala las rodajas en un plato plano. Decora con hojas de albahaca frescas. 
+            Baña con la salsa pesto y unas gotas de vinagre balsámico."
+        calorias="210 kcal por porción."
+        Tipo="Ensalada ligera de entrada.">
+        </receta>
+    </Ensaladas>
+</Receta-de-Ensaladas>
